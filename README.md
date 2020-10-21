@@ -1,4 +1,13 @@
-### Hi there 👋
+ ### Hi there 👋,I am Aishit.
+![Github stats](https://github-readme-stats.vercel.app/api?username=aishitdua&show_icons=true&theme=highcontrast&hide=issues,)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishitdua&show_icons=true&theme=cobalt)
+
+
+I am a final year undergrad at IIIT Nagpur/SD Intern at Stride.ai.
+- 🔭 I’m currently working on Data Science in Software Development
+- 🌱 I’m currently learning FullStack Development with NO SQL.
+- 👯 I’m looking to collaborate on Machine Learning /Data Science projects
+- 🤔 I’m looking for help with Deployment on already created ML/DL projects
+- 📫 How to reach me: [Let's Connect On LinkedIn](https://www.linkedin.com/in/aishit-dua-839aab160/) 
 
 <!--
 **aishitdua/aishitdua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
