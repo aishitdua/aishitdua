@@ -1,5 +1,5 @@
  ### Hi there 👋,I am Aishit.
-![Github stats](https://github-readme-stats.vercel.app/api?username=aishitdua&show_icons=true&theme=highcontrast&hide=issues,)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishitdua&show_icons=true&theme=cobalt)
+![Github stats](https://github-readme-stats.vercel.app/api?username=aishitdua&show_icons=true&include_all_commits=true&theme=highcontrast&hide=issues)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishitdua&show_icons=true&theme=cobalt)
 
 
 I am a final year undergrad at IIIT Nagpur/SD Intern at Stride.ai.
