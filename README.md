@@ -2,8 +2,8 @@
 ![Github stats](https://github-readme-stats.vercel.app/api?username=aishitdua&show_icons=true&include_all_commits=true&theme=highcontrast&hide=issues)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishitdua&show_icons=true&theme=cobalt)
 
 
-I am a final year undergrad at IIIT Nagpur/SD Intern at Stride.ai.
-- 🔭 I’m currently working on Data Science in Software Development
+I'm an experienced software engineer with expertise in developing RESTful APIs, deploying cloud-based architectures, and building data-intensive applications. I'm skilled in machine learning and artificial intelligence, and I excel at collaborating with cross-functional teams to deliver high-quality software products. I'm always seeking new challenges that allow me to learn and grow as a professional.
+- 🔭 I’m currently working in Software Development
 - 🌱 I’m currently learning FullStack Development with NO SQL.
 - 👯 I’m looking to collaborate on Machine Learning /Data Science projects
 - 🤔 I’m looking for help with Deployment on already created ML/DL projects
