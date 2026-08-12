@@ -1,25 +1,7 @@
  ### Hi there 👋,I am Aishit.
-![Github stats](https://github-readme-stats.vercel.app/api?username=aishitdua&show_icons=true&include_all_commits=true&theme=highcontrast&hide=issues)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aishitdua&show_icons=true&theme=cobalt)
 
-
-I'm an experienced software engineer with expertise in developing RESTful APIs, deploying cloud-based architectures, and building data-intensive applications. I'm skilled in machine learning and artificial intelligence, and I excel at collaborating with cross-functional teams to deliver high-quality software products. I'm always seeking new challenges that allow me to learn and grow as a professional.
+I'm an experienced software engineer with expertise in developing RESTful APIs, deploying cloud-based architectures, and building data-intensive applications. I'm skilled in backend development and data engineering, and I excel at collaborating with cross-functional teams to deliver high-quality software products. I'm always seeking new challenges that allow me to learn and grow as a professional.
 - 🔭 I’m currently working in Software Development
 - 🌱 I’m currently learning FullStack Development with NO SQL.
-- 👯 I’m looking to collaborate on Machine Learning /Data Science projects
-- 🤔 I’m looking for help with Deployment on already created ML/DL projects
 - 📫 How to reach me: [Let's Connect On LinkedIn](https://www.linkedin.com/in/aishit-dua-839aab160/) 
 
-<!--
-**aishitdua/aishitdua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
